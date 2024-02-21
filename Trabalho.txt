@@ -1,8 +1,11 @@
-Forneça a definição da termo ARQUIVO, no contexto da computação:
-Um arquivo é um recurso de armazenamento de informação. Disponível a um programa de computador, é um conjunto de dados que juntos descrevem uma, ou um conjunto, de informação.
-O que é um ARQUIVO DE TEXTO?
-Arquivo de texto se caracteriza por ser um tipo de arquivo de computador que possui caracteres simples, aqueles legíveis por humanos.
-Explique o que é uma VARIÁVEL, no contexto da programação de computadores:
-É a denominação para um ou mais valores que são manipulados pelos programas durante a sua operação. Ademais, é utilizado por ser um tipo de conteúdo capaz de apresentar diversos valor enquanto o sistema está em execução.
-Explique o que seria um SERVIDOR, no contexto da computação:
-Servidor é qualquer solução tecnológica capaz de executar um programa, armazenar e compartilhar arquivos, e prestar serviços para vários computadores.  
+1 - Forneça a definição da termo ARQUIVO, no contexto da computação:
+R. Um arquivo é um recurso de armazenamento de informação. Disponível a um programa de computador, é um conjunto de dados que juntos descrevem uma, ou um conjunto, de informação.
+
+2 - O que é um ARQUIVO DE TEXTO?
+R. Arquivo de texto se caracteriza por ser um tipo de arquivo de computador que possui caracteres simples, aqueles legíveis por humanos.
+
+3 - Explique o que é uma VARIÁVEL, no contexto da programação de computadores:
+R. É a denominação para um ou mais valores que são manipulados pelos programas durante a sua operação. Ademais, é utilizado por ser um tipo de conteúdo capaz de apresentar diversos valor enquanto o sistema está em execução.
+
+4 - Explique o que seria um SERVIDOR, no contexto da computação:
+R. Servidor é qualquer solução tecnológica capaz de executar um programa, armazenar e compartilhar arquivos, e prestar serviços para vários computadores.  
