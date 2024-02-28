@@ -1,10 +1,24 @@
 PARTE 3:
 
 1 – Explique as diferenças entre 3 linguagens de programação: 
-A) Tente fazer um código mínimo em cada uma delas:
 R.
+- Python: 
+Tipagem dinâmica
+Sintaxe limpa e legível
+Amplamente utilizado em desenvolvimento web, ciência de dados e automação
+
+- Java:
+Tipagem estática,
+Sintaxe verbose,
+Usado em desenvolvimento corporativo, Android e sistemas embarcados.
+
+- JavaScript:
+Tipagem dinâmica (com TypeScript para tipagem estática opcional)
+Sintaxe similar a C, usado principalmente para desenvolvimento web
+Amplamente utilizado em páginas web, aplicativos móveis e desenvolvimento de jogos
+
+A) Tente fazer um código mínimo em cada uma delas:
+R. 
 
 B) Tente fazer um código mínimo em cada uma delas:
 R.
-
-2 – Inclua seus comentários e prova de execução em um novo arquivo de texto NO github:
