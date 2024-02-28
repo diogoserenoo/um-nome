@@ -20,5 +20,5 @@ Não possui gerenciamento automático de memória.
 A) Tente fazer um código mínimo em cada uma delas:
 R. 
 
-B) Tente fazer um código mínimo em cada uma delas:
+B) Tente executar o seu código:
 R.
