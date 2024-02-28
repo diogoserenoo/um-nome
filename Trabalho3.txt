@@ -42,6 +42,7 @@ int main() {
     std::cout << "Hello world!" << std::endl;
     return 0;
 }
+https://github.com/diogoserenoo/um-nome/blob/main/Print%20-%20C%2B%2B.png 
 
 B) Tente executar o seu código:
 R. 
