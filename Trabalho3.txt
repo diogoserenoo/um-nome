@@ -18,7 +18,33 @@ Nível médio, com uma sintaxe complexa,
 Não possui gerenciamento automático de memória.
 
 A) Tente fazer um código mínimo em cada uma delas:
-R. 
+R.
+- Python:
+# Hello World em Python
+print("Hello, World!")
+
+- Java:
+import java.util.*;
+import java.lang.*;
+import java.io.*;
+// The main method must be in a class named "Main".
+class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello world!");
+    }
+}
+
+- C++:
+#include <iostream>
+int main() {
+    std::cout << "Hello world!" << std::endl;
+    return 0;
+}
 
 B) Tente executar o seu código:
-R.
+R. 
+#include <iostream>
+int main() {
+    std::cout << "Meu nome é Diogo Sereno" << std::endl;
+    return 0;
+}
