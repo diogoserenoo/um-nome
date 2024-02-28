@@ -12,10 +12,10 @@ Tipagem estática,
 Sintaxe verbose,
 Usado em desenvolvimento corporativo, Android e sistemas embarcados.
 
-- JavaScript:
-Tipagem dinâmica (com TypeScript para tipagem estática opcional),
-Sintaxe similar a C, usado principalmente para desenvolvimento web,
-Amplamente utilizado em páginas web, aplicativos móveis e desenvolvimento de jogos.
+- C++:
+Linguagem de programação de alto desempenho, oferecendo controle detalhado sobre o hardware,
+Nível médio, com uma sintaxe complexa,
+Não possui gerenciamento automático de memória.
 
 A) Tente fazer um código mínimo em cada uma delas:
 R. 
