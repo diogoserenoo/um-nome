@@ -18,7 +18,7 @@ R. A LGPD zela pelo cumprimento da segurança, visto que as informações e dado
 
 B) Formatos de arquivos de dados proprietários e abertos.
 b.1) Forneça exemplos de formatos:
-R.
+R. O formato proprietário é controlado e protegido por interesses particulares da empresa detentora de seus direitos, como, por exemplo, PDF, DOC, PPT. O formato aberto é publicado para todos verem, disponível para quem quiser utilizar o mesmo, o arquivo de texto é um exemplo de formato aberto. 
 
 b.2) Discuta as implicações relacionadas a dados públicos:
-R.
+R. A disponibilidade de tais dados traz benefícios, como transparência e inovação, porém, não estão sujeitos a limitações válidas de privacidade, segurança ou controle de acesso, reguladas por estatuto. É importante equilibrar o acesso à informação com a privacidade, realizando o uso apropriado dos dados coletados. A responsabilidade e prestação de contas governamentais são fortalecidas, todavia, a segurança da informação e gestão devem ser levantados e observados para o avanço dos benefícios dos dados públicos.
