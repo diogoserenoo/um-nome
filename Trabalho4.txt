@@ -19,4 +19,4 @@ if numero % 2 == 0:
 else:
     print("O número é ímpar.")
 
-Link: 
+Link: https://github.com/diogoserenoo/um-nome/blob/a87dcbad4e75ac2df3ef4ac893f57960e58d4c5a/Estrutura%20de%20Tomada%20de%20Decis%C3%A3o%20-%20Python.PNG
