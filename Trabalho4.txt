@@ -17,3 +17,4 @@ if numero % 2 == 0:
 else:
     print("O número é ímpar.")
 
+Link: 
