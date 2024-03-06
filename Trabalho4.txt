@@ -1,0 +1,19 @@
+PARTE 4:
+
+1- Utilizando a linguagem de programação Python, implemente um ou mais códigos de exemplo dos seguintes elementos:
+A) Uma estrutura de repetição;
+
+# Exemplo de um loop for para imprimir os números de 1 a 5
+for i in range(1, 6):
+    print(i)
+
+B) Uma estrutura de tomada de decisão;
+
+# Exemplo de uma estrutura if-else para verificar se um número é par ou ímpar
+numero = 10
+
+if numero % 2 == 0:
+    print("O número é par.")
+else:
+    print("O número é ímpar.")
+
