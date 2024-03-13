@@ -32,3 +32,5 @@ def imprime_vogais(frase):
 # Exemplo de uso:
 frase = "Olá, mundo! Esta é uma frase de exemplo."
 print("Vogais na frase:", imprime_vogais(frase))
+
+Link: https://github.com/diogoserenoo/um-nome/blob/754c5a0964cb353df40dcf014c9149af62595c0d/Vogais%20-%20Python.png
