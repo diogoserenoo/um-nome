@@ -27,8 +27,6 @@ def imprime_vogais(frase):
     vogais_na_frase = [letra for letra in frase if letra in vogais]
     return ''.join(vogais_na_frase)
 
-
-
 # Exemplo de uso:
 frase = "Olá, mundo! Esta é uma frase de exemplo."
 print("Vogais na frase:", imprime_vogais(frase))
