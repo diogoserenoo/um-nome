@@ -20,6 +20,8 @@ print("Array ordenado:")
 for i in range(len(arr)):
     print("%d" % arr[i], end=" ")
 
+Link: https://github.com/diogoserenoo/um-nome/blob/15dba5d387deca8cc1efef864a6a76f1a3eba3d3/Bubble%20Sort%20-%20Python.png
+
 2- Implemente um algorítimo que imprima apenas as vogais de uma determinada palavra ou frase:
 
 def imprime_vogais(frase):
